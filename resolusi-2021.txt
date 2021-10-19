@@ -1,0 +1,4 @@
+resolusi pembelajaran c++ 2021
+
+- seminggu ada materi yg harus dipelajari
+- bisa membuat program 
